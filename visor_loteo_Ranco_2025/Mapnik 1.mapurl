@@ -1,0 +1,5 @@
+url=Mapnik 1/ZZZ/XXX/YYY.png
+minzoom=1
+maxzoom=10
+center=-70.727050 -34.129883
+type=tms
